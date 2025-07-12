@@ -1,6 +1,7 @@
 <p align='center'>
-  <img width="200" height="200" alt="Frame 80" src="https://github.com/user-attachments/assets/53409dac-c06d-46d7-b83b-cbdc6b5ba543" />
+  <img width="200" height="200" alt="Frame 80" src="https://github.com/user-attachments/assets/d7a0273e-7805-443b-80ba-8589ce5c3a33" />
 </p>
+
 <h1 align='center'>Basheer A.</h1>
 <p align='center'>A passionate iOS developer from Sudan<br>I've worked with multiple startups, shipped my own apps, and solved real problems</p>
 
