@@ -1,9 +1,10 @@
-<p align='center'> <img scr='https://github.com/user-attachments/assets/673b03f7-bf05-45c9-ac3c-896148f6dac5'> </p>
+<img scr='https://github.com/user-attachments/assets/673b03f7-bf05-45c9-ac3c-896148f6dac5'>
 <h1 align='center'>Basheer A.</h1>
 <p align='center'>A passionate iOS developer from Sudan</p>
 
 <p align='center'>I'm an iOS developer with a design mindset and a persistant builder's heart.
 I've worked with multiple startups, shipped my own apps, and solved real-problems.</p>
+![0D5CD5CE-7626-49C3-B113-F212C87735AC](https://github.com/user-attachments/assets/58a5010c-ec21-44e7-9ca1-9c2440b6b055)
 
 <!--
 **BasheerTheSWE/BasheerTheSWE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
