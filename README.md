@@ -8,6 +8,7 @@
 <p align='center'>❝ I think software engineering is an artisic discipline, but somewhere along the way, people forgot.<br><strong>Beauty wasn't just a luxury, it was the point of it all</strong> ❞</p>
 
 <h2 align='center'>My Apps</h2>
+
 <p align='center'>
   <img width="90" height="90" alt="Frame 81" src="https://github.com/user-attachments/assets/2bbf7eb3-46a6-462c-a021-8e72c764c6a5" />
   <br><strong>SayItRight</strong>
@@ -27,3 +28,17 @@
 </p>
 
 You can find it on the App Store [@SayItRight](https://apps.apple.com/sa/app/sayitright-accent-training/id6736978618)
+
+***
+<p align='center'>
+  <img width="90" height="90" alt="Frame 81" src="https://github.com/user-attachments/assets/876502a1-bd5c-402f-a485-1a3df3fb32d9" />
+  <br><strong>Brain Rotter</strong>
+  <br>Create Brain-Rot Videos
+  <br>(Under Construction)
+</p>
+
+- Create brainrot-style videos in seconds.
+- Optimized for short-form content (TikTok, Reels, Shorts).
+- Most content creators nowadays are making short-form content and relying on "brain rot" formats to get views and engagement. That's why I'm building this app, to give creators a tool that doesn't require a monthly subscription like the others (just a one-time payment) and is offering exactly what they want (templates covering the most commonly used "brain rot" formats).
+
+
