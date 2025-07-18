@@ -33,7 +33,7 @@ You can find it on the App Store [@SayItRight](https://apps.apple.com/sa/app/say
 <p align='center'>
   <img width="90" height="90" alt="Frame 81" src="https://github.com/user-attachments/assets/876502a1-bd5c-402f-a485-1a3df3fb32d9" />
   <br><strong>Brain Rotter</strong>
-  <br>Create Brain-Rot Videos
+  <br>Create Brainrot Videos
   <br>(Under Construction)
 </p>
 
