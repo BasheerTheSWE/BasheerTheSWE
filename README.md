@@ -10,7 +10,7 @@
 <h2 align='center'>My Apps</h2>
 
 <p align='center'>
-  <img width="90" height="90" alt="Frame 81" src="https://github.com/user-attachments/assets/2bbf7eb3-46a6-462c-a021-8e72c764c6a5" />
+  <img width="90" height="90" alt="Frame 81" src="https://github.com/user-attachments/assets/37d19f7d-3283-4d49-8985-439834ebbd18" />
   <br><strong>SayItRight</strong>
   <br>Master Your Voice
 </p>
@@ -31,7 +31,7 @@ You can find it on the App Store [@SayItRight](https://apps.apple.com/sa/app/say
 
 ***
 <p align='center'>
-  <img width="90" height="90" alt="Frame 81" src="https://github.com/user-attachments/assets/876502a1-bd5c-402f-a485-1a3df3fb32d9" />
+  <img width="90" height="90" alt="Frame 81" src="https://github.com/user-attachments/assets/17ccd8c1-bdc8-4b82-ae7f-6963ff16ef2a" />
   <br><strong>Brain Rotter</strong>
   <br>Create Brainrot Videos
   <br>(Under Construction)
