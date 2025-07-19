@@ -19,25 +19,19 @@
     <td>
       <p align='center'>
         +25,000
-        <br>Downloads
+        <br>Downs
       </p>
     </td>
     <td>
       <p align='center'>
         +250
-        <br>Ratings
+        <br>Rts
       </p>
     </td>
     <td>
       <p align='center'>
         ★ 4.8 ★
-        <br>Avg. Rating
-      </p>
-    </td>
-    <td>
-      <p align='center'>
-        Education
-        <br>Category
+        <br>Avg Rt
       </p>
     </td>
     <td>
