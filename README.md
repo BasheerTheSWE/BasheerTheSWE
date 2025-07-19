@@ -7,7 +7,7 @@
 
 <p align='center'>❝ I think software engineering is an artisic discipline, but somewhere along the way, people forgot.<br><strong>Beauty wasn't just a luxury, it was the point of it all</strong> ❞</p>
 
-<h2 align='center'>My Apps</h2>
+<h2 align='center'>My Best Work</h2>
 
 <p align='center'>
   <img width="75" height="75" alt="Frame 81" src="https://github.com/user-attachments/assets/37d19f7d-3283-4d49-8985-439834ebbd18" />
