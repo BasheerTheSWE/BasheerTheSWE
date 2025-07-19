@@ -30,7 +30,7 @@
     </td>
     <td>
       <p align='center'>
-        ★ 4.8 ★
+        4.8
         <br>Avg Rt
       </p>
     </td>
