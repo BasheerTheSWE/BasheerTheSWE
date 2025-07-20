@@ -10,7 +10,7 @@
 <h2 align='center'>My Best Work</h2>
 
 <p align='center'>
-  <img width="75" height="75" alt="Frame 81" src="https://github.com/user-attachments/assets/37d19f7d-3283-4d49-8985-439834ebbd18" />
+  <img width="75" height="75" alt="Frame 81" src="https://github.com/user-attachments/assets/653858d4-91db-4276-b76b-efb151787fd1" />
   <br><strong>SayItRight - Accent Training</strong>
 </p>
 
@@ -57,7 +57,7 @@ You can find it on the App Store [@SayItRight](https://apps.apple.com/sa/app/say
 
 ***
 <p align='center'>
-  <img width="75" height="75" alt="Frame 81" src="https://github.com/user-attachments/assets/17ccd8c1-bdc8-4b82-ae7f-6963ff16ef2a" />
+  <img width="75" height="75" alt="Frame 81" src="https://github.com/user-attachments/assets/21b94026-3d2c-43f6-92b8-4c7642f724bd" />
   <br><strong>Brain Rotter (under construction 🏗️)</strong>
 </p>
 
