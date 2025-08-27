@@ -14,35 +14,6 @@
   <br><strong>SayItRight - Accent Training</strong>
 </p>
 
-<table align='center'>
-  <tr>
-    <td>
-      <p align='center'>
-        +25,000
-        <br>Downs
-      </p>
-    </td>
-    <td>
-      <p align='center'>
-        +250
-        <br>Rts
-      </p>
-    </td>
-    <td>
-      <p align='center'>
-        4.8
-        <br>Avg Rt
-      </p>
-    </td>
-    <td>
-      <p align='center'>
-        12.7
-        <br>MBs
-      </p>
-    </td>
-  </tr>
-</table>
-
 <img width="7680" height="2282" alt="Frame 82" src="https://github.com/user-attachments/assets/62a2b25a-f61d-4832-941f-8062e8c9121d" />
 
 - ***❝Master Your Voice.❞***
