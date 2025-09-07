@@ -40,3 +40,6 @@ You can find it on the App Store [@SayItRight](https://apps.apple.com/sa/app/say
 
 You can find it on the App Store [@BrainRotter](https://apps.apple.com/us/app/video-editor-brain-rotter/id6749075523)
 
+<h2 align='center'>Honorable Mentions</h2>
+
+- **RESET:** simple intermittent fasting tracker and timer. You can find it [here.](https://apps.apple.com/us/app/intermittent-fasting-reset/id6751657628)
