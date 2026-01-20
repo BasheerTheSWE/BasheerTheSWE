@@ -11,16 +11,16 @@
 
 These are the apps I'm most proud off. You can find them on the App Store, and feel free to support me by leaving a 5-star rating :)
 
-· [SayItRight](https://apps.apple.com/sa/app/sayitright-accent-training/id6736978618): Master your voice.
+· [Sub AI](https://apps.apple.com/sa/app/sub-ai-captions-translation/id6752953903): Translate any video.
 
-· [Sub AI](https://apps.apple.com/sa/app/sub-ai-captions-translation/id6752953903): Translate any video to any language offline and for free.
+· [SayItRight](https://apps.apple.com/sa/app/sayitright-accent-training/id6736978618): Master your voice.
 
 · [Deal AI](https://apps.apple.com/sa/app/deal-ai/id6752508378): Never pay full price.
 
 · [Reset](https://apps.apple.com/sa/app/intermittent-fasting-reset/id6751657628): For intermittent fasting.
 
-· [Brain Rotter](https://apps.apple.com/sa/app/video-editor-brain-rotter/id6749075523): Create brain-rot content in seconds.
+· [Brain Rotter](https://apps.apple.com/sa/app/video-editor-brain-rotter/id6749075523): Create brainrot content.
 
-· [SpeechFlow](https://apps.apple.com/sa/app/speechflow-for-speech-video/id6743344111): Transcribe audio notes & videos.
+· [SpeechFlow](https://apps.apple.com/sa/app/speechflow-for-speech-video/id6743344111): Transcribe audio & videos.
 
-· [Quotive](https://apps.apple.com/sa/app/quotive/id6741040647): Create your quotes library.
+· [Quotive](https://apps.apple.com/sa/app/quotive/id6741040647): Your quotes library.
